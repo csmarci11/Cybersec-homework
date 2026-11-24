@@ -1,4 +1,5 @@
-*.pdf
+doc/
+cat.jpg
 __pycache__/
 *.pyc
 .venv/
